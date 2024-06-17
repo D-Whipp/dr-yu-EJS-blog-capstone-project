@@ -1,0 +1,3 @@
+# EJS Blog
+
+## Capstone Project
